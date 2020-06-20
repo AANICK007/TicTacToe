@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1592628736 source:c:\users\aanic\documents\github\basic_games\tic_tac_toe\main.cpp
+	<iostream>
+	"TicTacToeGame.h"
+
+1592628736 c:\users\aanic\documents\github\basic_games\tic_tac_toe\tictactoegame.h
+
+1592628736 source:c:\users\aanic\documents\github\basic_games\tic_tac_toe\tictactoegame.cpp
+	"TicTacToeGame.h"
+	<iostream>
+
